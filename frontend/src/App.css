@@ -1,0 +1,113 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.GroceriesApp-Container {
+  display: flex;
+  justify-content: space-around;
+  max-width: 800px;
+  min-width: 550px;
+}
+
+.CartList-Container {
+  width: 25%;
+  justify-content: center;
+  /* border: 1px solid white; */
+}
+
+.CartList-Card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 2px wheat solid;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.CartList-Card-Info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Inventory-Container {
+  width: 75%;
+  max-width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* border: 1px solid white; */
+}
+
+.Inventory-Card {
+  width: 25%;
+  border: 2px wheat solid;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+
+img {
+  height: 50px;
+  border-radius: 5px;
+}
+
+.counter-container {
+  /* border: 1px solid white; */
+  display: flex;
+  width: 70%;
+  height: 20px;
+  justify-content: space-around;
+  align-items: center;
+  margin: 5px auto;
+}
+
+.counter-button {
+  width: 15px;
+  height: 15px;
+  border: 1px solid white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.CartList-Buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Remove-Button {
+  background-color: rgb(190, 0, 0);
+}
+
+#Buy-Button {
+  background-color: green;
+}
+
+.Form-Container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.Form-Container form {
+  max-width: 80%;
+  min-width: 50%;
+}
+
+.Form-Container p {
+  color: red;
+}
+
+.Form-Container button {
+  margin: 20px auto;
+}
+
+.Input-Container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

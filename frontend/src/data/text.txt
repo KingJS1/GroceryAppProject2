@@ -1,0 +1,12 @@
+
+
+3608580765653 ​​​​​at ​​​​​​​​barCodes[barCode].toString()​​​ ​src/data/data.js:34:3​
+
+Bonne Maman® ​​​​​at ​​​​​​​​res.product.brands​​​ ​src/data/data.js:36:3​
+ 
+https://images.openfoodfacts.org/images/products/360/858/076/5653/front_fr.92.400.jpg 
+  ​​​​​at ​​​​​​​​res.product.image_front_url​​​ ​src/data/data.js:37:3​
+
+200g (4x50g) ​​​​​at ​​​​​​​​res.product.quantity​​​ ​src/data/data.js:38:3​
+
+chocolateMousse ​​​​​at ​​​​​​​​barCode​​​ ​src/data/data.js:52:3​
